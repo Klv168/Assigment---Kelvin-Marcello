@@ -1,2 +1,2 @@
-# Latihan-day1-selfmade
-Trying to recreate own repository
+Assignments Kelvin Marcello
+Algoritma dan Pseudocode
