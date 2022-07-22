@@ -22,4 +22,4 @@
 // var tinggi = 10;
 // var r = 7;
 
-// console.log (2 * phi * tinggi * r) + (2 * phi * r * r)
+// console.log( (2 * phi * tinggi * r) + (2 * phi * r * r))
